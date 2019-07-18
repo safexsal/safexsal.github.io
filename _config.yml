@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Safexsal Blog
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -15,11 +15,11 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    twitter: safexsal
+    github:  safexsal
+    # rss: rss
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: safexsal
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
