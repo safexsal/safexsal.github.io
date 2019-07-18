@@ -2,7 +2,8 @@ title: Safexsal Blog
 author: Equipo Safexsal
 email: info@safexsal.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Capacitaciones en Seguridad Ofensiva, Hacking Ético, Informática Forense y Seguridad de la Información.
+  Capacitaciones en Seguridad Ofensiva, Hacking Ético,
+  Informática Forense y Seguridad de la Información.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
